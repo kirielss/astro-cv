@@ -17,10 +17,11 @@ skills:
 languages:
   - language: React
     percentage: 80
+  - language: Next
+    percentage: 80
   - language: Astro
     percentage: 75
-  - language: Next
-    percentage: 60
+
 experiences:
   - experience: AstroCV
     period: Janeiro 2023

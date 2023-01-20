@@ -24,8 +24,7 @@ languages:
 experiences:
   - experience: AstroCV
     period: Janeiro 2023
-    current: true
-    url: #
+    url: https://astro-cv-ten.vercel.app/
     description:
       Criei uma aplicação em Astro convertendo mdx em html para formular um modelo de currículo em web.
       Utilizei de bibliotecas externas para estilização (Tailwindcss) e personalização (fa-icons).

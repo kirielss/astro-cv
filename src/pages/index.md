@@ -65,8 +65,8 @@ educations:
     period: 2022 - 2026
     description: Centro Universitário - UniAmérica
   - education: Fullstack Development Workshops and Bootcamp
-    period: 2013 - 2015
-    description: FrontEnd Masters 
+    period: 2022 - 2023
+    description: Frontend Masters 
 
 social:
   - name: Github

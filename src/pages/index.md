@@ -49,6 +49,7 @@ experiences:
       Idealizei e construí um serviço de busca e indexação por meio de uma API externa de drinks e bebidas em geral.
       Criei uma SPA com os detalhes de cada drink para facilitar a utilização e retenção do usuário.
   - experience: Quizzo
+    period: Janeiro 2023
     url: https://quizzo-lovat.vercel.app/
     description:
       Desenvolvi um aplicativo em SPA de quiz utilizando uma API com um banco de dados externos contendo perguntas com diversas categorias diferentes.

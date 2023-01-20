@@ -1,0 +1,9 @@
+---
+const { name, image } = Astro.props;
+---
+<div class="w3-display-container">
+  <img src={image} style="width:100%"  alt="Avatar">
+  <div class="w3-display-bottomleft w3-container w3-text-white" style='background-color:white; width:100%'>
+    <h2 style="color: red; font-weight:bold; border-bottom: 1px solid red; border-radius: 0.25rem;">{name}</h2>
+  </div>
+</div>

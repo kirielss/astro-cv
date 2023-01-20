@@ -1,0 +1,13 @@
+---
+const { lists } = Astro.props;
+---
+{lists.map((item) => (
+<div class="w3-container">
+  <a href={item.url} target="_blank" style="">
+    <h5 class="w3-opacity"><b>{item.experience}</b></h5>
+  </a>
+  <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>{item.period}</h6>
+  <p>{item.description}</p>
+  <hr>
+</div>
+))}

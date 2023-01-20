@@ -1,0 +1,17 @@
+---
+const { lists } = Astro.props;
+---
+
+<p>Minhas redes</p>
+{
+  lists.map((item) => (
+    <a
+      href={item.link}
+      target="_black"
+      aria-label={item.name}
+      style="text-decoration:none"
+    >
+      <i class={`fa ${item.icon} w3-hover-opacity`} />
+    </a>
+  ))
+}

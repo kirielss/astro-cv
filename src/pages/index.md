@@ -2,14 +2,14 @@
 layout: '../layouts/Layout.astro'
 name: Gabriel Dantas
 image: './avatar.webp'
-function: Desenvolvedor Web
+function: Desenvolvedor Full Stack
 address: Salvador, BA
 email: gabrieldllopes@gmail.com
 telephone: '(71)99217-2268'
 skills:
   - name: Javascript
     percentage: 90
-  - name: Typescript
+  - name: C#
     percentage: 75
   - name: SQL
     percentage: 40
@@ -19,7 +19,7 @@ languages:
     percentage: 80
   - language: Next
     percentage: 80
-  - language: Astro
+  - language: .NET
     percentage: 75
 
 experiences:
